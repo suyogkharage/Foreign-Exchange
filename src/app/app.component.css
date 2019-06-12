@@ -1,0 +1,25 @@
+p {
+  font-family: Lato;
+}
+
+table {
+  width: 100%;
+}
+
+.header {
+  padding: 5px;
+}
+
+.filter {
+  display: block;
+}
+.example-spacer {
+  flex: 1 1 auto;
+}
+
+.filler {
+  flex: 1 1 auto;
+}
+.gap {
+  margin-right: 10px;
+}
